@@ -11,7 +11,7 @@
 
 # Hey there! I'm **Bima Satria Putra** 👋
 
-### 🎓 Senior High School Student • 💻 Aspiring Web Developer • 🚀 Builder of Things
+### 🎓 Vocational High School Student • 💻 Aspiring Web Developer • 🚀 Builder of Things
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+about+Web+Development;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Reality;Open+Source+Enthusiast" alt="Typing SVG" />
 
