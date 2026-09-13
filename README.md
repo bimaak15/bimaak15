@@ -11,7 +11,7 @@
 
 # Hey there! I'm **Bima Satria Putra** 👋
 
-### 🎓 Vocational High School Student • 💻 Aspiring Web Developer • 🚀 Builder of Things
+### Vocational High School Student • Aspiring Web Developer • Builder of Things
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+about+Web+Development;Learning+%26+Building+Every+Day;Turning+Ideas+Into+Reality;Open+Source+Enthusiast" alt="Typing SVG" />
 
@@ -128,26 +128,6 @@ const bima = {
 </div>
 
 ---
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-> *"The best way to learn is by building things. Let's build something awesome together!"*
-
-📧 **Email:** [mvpbima@gmail.com](mailto:mvpbima@gmail.com)
-
-<br/>
 
 ⭐ **If you like what I do, consider giving my repos a star!** ⭐
 
